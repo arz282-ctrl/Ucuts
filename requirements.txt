@@ -1,0 +1,8 @@
+yt-dlp>=2025.1.0
+stable-ts>=2.17.0
+opencv-python>=4.9.0
+norfair>=2.1.0
+pysubs2>=1.7.0
+numpy>=1.26.0
+pillow>=10.0.0
+certifi>=2024.0.0

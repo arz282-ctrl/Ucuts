@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+reels_output/
+_tmp_work/
+*.mp4
+*.mov
+*.wav
+*.pt
+*.onnx
+*.gif
